@@ -1,0 +1,28 @@
+* {
+    font-weight: 100;
+    font-size: 26px;
+    background-color: aqua;
+}
+
+header,
+footer {
+    background-color: coral;
+    border-radius: 5px;
+    border: 15px black;
+    font-size: 36;
+}
+
+p {
+    font-weight: 600;
+    background-color: cornflowerblue;
+    size: 60%;
+    width: 40%;
+    flex-direction: row;
+}
+
+h1 {
+    font-weight: 900;
+    background-color: deeppink;
+    width: 60%;
+    size: 60%;
+}
